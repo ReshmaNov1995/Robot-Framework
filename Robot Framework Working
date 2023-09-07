@@ -1,6 +1,20 @@
 create a file with ".robot" extension.
+Indentation is mandatory.
+Tab should be used no spaces. (If same word 1 Tab. Assigning value 2 or more than 2 Tab)
+Note: Download the EdgeDriver & put it in the Project
+
 4 sections should inside a file.
 section 1 - Settings
-section2 - Variables
+Import Purpose
+"Library     SeleniumLibrary"
+
+section2 - Variables (optional)
+
 section3 - Test Cases
-section4 - Keywords
+"Testcase name"
+    open browser     "url"    "browser name"
+    maximize    browser
+
+
+section4 - Keywords (optional)
+
