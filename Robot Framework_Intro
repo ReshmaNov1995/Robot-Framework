@@ -29,4 +29,4 @@ To upgrade pip,
 E:\Automation\RobotFramework_Practice\venv\Scripts\python.exe -m pip install --upgrade pip
 
 Install Plugin Intellibot,
-
+Goto File->Settings->Plugins->Intellibot@Selenium Library Patched
