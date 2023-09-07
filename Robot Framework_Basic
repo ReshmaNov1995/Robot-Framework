@@ -22,3 +22,17 @@ For Headless Mode Testing,
 
 section4 - Keywords (optional)
 
+Concepts:
+sendkeys
+explicit wait
+click
+Title
+Print
+Page source
+currentlink
+MultiTab Link
+sleep
+horizontallocation(height)
+verticallocation(width)
+
+
