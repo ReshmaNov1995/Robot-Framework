@@ -23,3 +23,7 @@ pip install robotframework-seleniumlibrary
 
 To see it has installed,
 pip show robotframework-seleniumlibrary
+
+
+To upgrade pip,
+E:\Automation\RobotFramework_Practice\venv\Scripts\python.exe -m pip install --upgrade pip
