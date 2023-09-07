@@ -1,0 +1,25 @@
+Definition:
+It is used for Acceptance Testing. So, It is called as Acceptance Testing driven Development.
+It is a Keyword Driven Approach. So, It is called as Keyword Driven Testing Framework.
+It is a Open Source Framework.
+Here TestCase to be written in Simple English Language rather than normal Automation TestCase.
+We can create a own keyword using the existing keyword.
+Less Technical knowledge is required to use this Framework.
+It has Multiple Libraries like, 
+  In-Build Library
+  Selenium Library
+  Database Library
+  Date & Time Library
+
+To Install robotframework,
+pip install robotframework
+To see it has installed,
+pip show robotframework 
+    or
+pip check robotframework
+
+To Install seleniumlibrary,
+pip install robotframework -seleniumlibrary
+
+To see it has installed,
+pip show robotframework -seleniumlibrary
