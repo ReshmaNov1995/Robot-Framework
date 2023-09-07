@@ -1,6 +1,6 @@
 create a file with ".robot" extension.
 Indentation is mandatory.
-Tab should be used no spaces. (If same word 1 Tab. Assigning value 2 or more than 2 Tab)
+Tab should be used for non continuation words. (Assigning value, 2 or more than 2 Tab)
 Note: Download the EdgeDriver & put it in the Project
 
 4 sections should inside a file.
@@ -13,7 +13,11 @@ section2 - Variables (optional)
 section3 - Test Cases
 "Testcase name"
     open browser     "url"    "browser name"
-    maximize    browser
+    maximize browser window
+For Headless Mode Testing,
+"Testcase name"
+    open browser     "url"    "browser name"    options=headless=True
+    maximize browser window
 
 
 section4 - Keywords (optional)
