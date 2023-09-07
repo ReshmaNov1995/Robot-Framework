@@ -19,7 +19,7 @@ pip show robotframework
 pip check robotframework
 
 To Install seleniumlibrary,
-pip install robotframework -seleniumlibrary
+pip install robotframework-seleniumlibrary
 
 To see it has installed,
-pip show robotframework -seleniumlibrary
+pip show robotframework-seleniumlibrary
