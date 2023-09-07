@@ -1,0 +1,6 @@
+create a file with ".robot" extension.
+4 sections should inside a file.
+section 1 - Settings
+section2 - Variables
+section3 - Test Cases
+section4 - Keywords
